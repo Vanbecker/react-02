@@ -1,0 +1,31 @@
+header {
+  /* position: absolute; */
+  height: 100px;
+  width: 100%;
+  border: solid 10px;color: #ECB549; border-radius: 5%;
+}
+
+footer {
+  padding: 10px;
+}
+
+.logo {
+  width: 10px;
+  height: 10px;
+
+}
+
+.meals-list {
+  display: flex;
+  
+  background-color: rgb(68, 68, 68);
+}
+
+.meal-item {
+  border: solid 5px;color: #ECB549; border-radius: 10%;
+}
+
+img {
+  width: 100px;
+  height: 100px;
+}
